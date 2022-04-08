@@ -4,7 +4,8 @@ https://www.spray.com/services/advanced-testing-and-modeling/instruments-and-fac
 
 [Two-photon fluorescence laser sheet imaging for high contrast visualization of atomizing sprays](https://opg.optica.org/osac/fulltext.cfm?uri=osac-2-3-983&id=407341)
 
-
+## Physics:
+[Artifacts in laser imaging of spray systems](https://spray-imaging.com/assets/artifacts-in-laser-imaging-of-spray-systems.pdf)
 
 
 # Combustion in Diesel Engines
